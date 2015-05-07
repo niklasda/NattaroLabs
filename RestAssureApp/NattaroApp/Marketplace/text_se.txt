@@ -1,0 +1,11 @@
+﻿RestAssure är en app för dig som vill undvika att besväras av vägglöss och ett stöd för dig som redan har drabbats. Appen hjälper dig när du är på resa och när du har kommit hem och misstänker att du har fått vägglöss med dig.
+ 
+RestAssure har följande huvudfunktioner;
+ 
+1. Information om vägglöss – exempelvis hur man hittar dem och förebygger besvär. Informationen i appen är framtagen av Nattaro Labs AB – vi är ett ledande forskningsföretag, som utvecklar produkter för en miljövänlig vägglusbekämpning. Sektionerna för Fakta och Råd kommer att uppdateras kontinuerligt med nya foton och utökade texter.
+
+2. Ett sökverktyg, där du med hjälp av den inbyggda kameran kan leta efter och dokumentera misstänkta vägglöss. Om din enhet saknar kamera, zoomfunktion eller lampa, begränsas denna funktion på motsvarande sätt.
+
+3. Genom appen har du möjlighet att skicka in foton på insekter. Vi kan då med vår expertis bistå dig för att avgöra om insekten du har fotograferat är en väggluss.
+
+Vi hoppas appen kommer att vara till stor nytta i det förebyggande arbetet mot en världsomspännande epidemi av vägglusangrepp.

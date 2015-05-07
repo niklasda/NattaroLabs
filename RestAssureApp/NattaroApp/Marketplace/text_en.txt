@@ -1,0 +1,11 @@
+﻿RestAssure is an app for you who wants to avoid problems associated with bed bugs and support for you who has already experienced an infestation in your home. The facts and advice are intended to help you while travelling but also provide useful information on how to avoid bringing bed bugs with you back home.
+
+RestAssure’s main functions are;
+
+1. Information on bed bugs – e.g. how to find them and how to avoid them. Nattaro Labs AB – a research company, is developing environmentally friendly bed bug control products, assures the accuracy of the information.
+
+2. A search tool to assist you when looking for bed bugs, which also make use of the camera in your phone in order to make it easier to document the insects you observe. However, if your device is not equipped with camera, zoom or flashlight the usability of this function is limited.
+
+3. With this app you are able to send in your own photos of insects suspected to be bed bugs. Following our expertise in this area we are able to assist you and verify if the insect on the photo is a bed bug or not. 
+
+We trust the app will be of value for the preventive work required in order to curb a global pandemic of bed bug resurgence.

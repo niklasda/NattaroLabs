@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AdviceButton" xml:space="preserve">
+    <value>Råd</value>
+  </data>
+  <data name="AdviceTitle" xml:space="preserve">
+    <value>Råd</value>
+  </data>
+  <data name="AdviceUrl2" xml:space="preserve">
+    <value>http://nattarolabs.se/nattaro-sv-bedbug-advice-tabell</value>
+  </data>
+  <data name="AllCompanyName" xml:space="preserve">
+    <value>Nattaro Labs AB</value>
+  </data>
+  <data name="CameraButton" xml:space="preserve">
+    <value>Spana</value>
+  </data>
+  <data name="CameraCancel" xml:space="preserve">
+    <value>Ingen bild tagen.</value>
+  </data>
+  <data name="CameraInstructions" xml:space="preserve">
+    <value>Klicka ovan för att öppna kameran och ta en bild av en misstänkt vägglus. När du är nöjd, tryck på Skicka och bifoga bilden.</value>
+  </data>
+  <data name="CameraMailIntro" xml:space="preserve">
+    <value>Lägg till en bild innan du skickar, bilden du tog senast har sparats till ditt bild-bibliotek.</value>
+  </data>
+  <data name="CameraMailSubject" xml:space="preserve">
+    <value>Vägglus till Nattaro Labs</value>
+  </data>
+  <data name="CameraOpenButton" xml:space="preserve">
+    <value>Kamera</value>
+  </data>
+  <data name="CameraSendButton" xml:space="preserve">
+    <value>Skicka</value>
+  </data>
+  <data name="CameraTitle" xml:space="preserve">
+    <value>Spana</value>
+  </data>
+  <data name="ContactButton" xml:space="preserve">
+    <value>Kontakt</value>
+  </data>
+  <data name="ContactMailSubject" xml:space="preserve">
+    <value>Fråga till Nattaro Labs</value>
+  </data>
+  <data name="ContactPage_Line1" xml:space="preserve">
+    <value>RestAssure (v{0}) är utvecklad och utgiven av Nattaro Labs AB, experter på vägglöss, i nära samarbete med Dahlman Software Science AB, Dahlman Labs och Gabriel Lundh Design. </value>
+  </data>
+  <data name="ContactPage_Line2" xml:space="preserve">
+    <value>Vår målsättning är att denna mobilapp skall vara ett redskap för dig som vill undvika att få problem med vägglöss och ett stöd för dig som redan drabbats. </value>
+  </data>
+  <data name="ContactPage_Line3" xml:space="preserve">
+    <value>Om du vill veta mer om våra erbjudanden gå till nattarolabs.se. </value>
+  </data>
+  <data name="ContactPage_Line4" xml:space="preserve">
+    <value>Hör gärna av dig med förslag på hur vi kan göra RestAssure ännu bättre. </value>
+  </data>
+  <data name="ContactPage_Line5" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ContactPage_Line6" xml:space="preserve">
+    <value>Copyright © 2015 Nattaro Labs AB</value>
+  </data>
+  <data name="ContactTitle" xml:space="preserve">
+    <value>Kontakt</value>
+  </data>
+  <data name="FactsButton" xml:space="preserve">
+    <value>Fakta</value>
+  </data>
+  <data name="FactsTitle" xml:space="preserve">
+    <value>Fakta</value>
+  </data>
+  <data name="FactsUrl2" xml:space="preserve">
+    <value>http://nattarolabs.se/nattaro-sv-bedbug-facts-tabell</value>
+  </data>
+  <data name="Loading1" xml:space="preserve">
+    <value>Laddar</value>
+  </data>
+  <data name="Loading2" xml:space="preserve">
+    <value>Vänligen vänta...</value>
+  </data>
+  <data name="LoadingProblem1" xml:space="preserve">
+    <value>Nätverksproblem</value>
+  </data>
+  <data name="LoadingProblem2" xml:space="preserve">
+    <value>Vänta eller försök igen...</value>
+  </data>
+  <data name="MailFooter" xml:space="preserve">
+    <value>Skickat från RestAssure WP8-App</value>
+  </data>
+  <data name="OfflineAdviceMenu" xml:space="preserve">
+    <value>&lt;html&gt;
+&lt;head&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;p&gt;$_Section:Råd mot vägglöss (offline);&lt;/p&gt;
+&lt;p&gt;$_Item:Allmänna råd vid resor;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://images/T/APP020T_72.png" alt="" width="68" height="68" /&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://pages/nattaro-sv-bedbug-advice.html#R%C3%A5d%201__advice1"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$_Item:Inför resan;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://images/T/APP012T_72.png" alt="" width="68" height="68" /&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://pages/nattaro-sv-bedbug-advice.html#R%C3%A5d%202__advice2"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$_Item:Vid ankomst;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://images/T/APP031T_72.png" alt="" width="68" height="68" /&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://pages/nattaro-sv-bedbug-advice.html#R%C3%A5d%203__advice3"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$_Item:Vid hemkomst;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://images/T/APP033T_72.png" alt="" width="68" height="68" /&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://pages/nattaro-sv-bedbug-advice.html#R%C3%A5d%204__advice4"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$_Item:Om du blivit biten;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://images/T/APP017T_72.png" alt="" width="68" height="68" /&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://pages/nattaro-sv-bedbug-advice.html#R%C3%A5d%205__advice5"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$_Item:Hur en sanering kan gå till;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://images/T/APP021T_72.png" alt="" width="68" height="68" /&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://pages/nattaro-sv-bedbug-advice.html#R%C3%A5d%206__advice6"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$_Item:Underlätta för sanering;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://images/T/APP028T_72.png" alt="" width="68" height="68" /&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://pages/nattaro-sv-bedbug-advice.html#R%C3%A5d%207__advice7"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$_Item:Frågor och svar;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://images/T/APP026T_72.png" alt="" width="68" height="68" /&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://pages/nattaro-sv-bedbug-advice.html#R%C3%A5d%208__advice8"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
+  <data name="OfflineFactsMenu" xml:space="preserve">
+    <value>&lt;html&gt;
+&lt;head&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;p&gt;$_Section:Fakta om vägglöss (offline);&lt;/p&gt;
+&lt;p&gt;$_Item:Biologi;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://Images/T/APP002T_72.png" width="68" height="68"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://Pages/nattaro-sv-bedbug-facts.html#Fakta%201__fact1"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$_Item:Historiska benämningar;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://Images/T/APP003T_72.png" width="68" height="68"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://Pages/nattaro-sv-bedbug-facts.html#Fakta%202__fact2"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$_Item:Utveckling och livslängd;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://Images/T/APP004T_72.png" width="68" height="68"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://Pages/nattaro-sv-bedbug-facts.html#Fakta%203__fact3"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$_Item:Livsmiljö;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://Images/T/APP006T_72.png" width="68" height="68"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://Pages/nattaro-sv-bedbug-facts.html#Fakta%204__fact4"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$_Item:Fortplantning;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://Images/T/APP009T_72.png" width="68" height="68"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://Pages/nattaro-sv-bedbug-facts.html#Fakta%205__fact5"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$_Item:Spridning;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://Images/T/APP012T_72.png" width="68" height="68"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://Pages/nattaro-sv-bedbug-facts.html#Fakta%206__fact6"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$_Item:Bett;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://Images/T/APP016T_72.png" width="68" height="68"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://Pages/nattaro-sv-bedbug-facts.html#Fakta%207__fact7"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$_Item:Doftspråk;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://Images/T/APP019T_72.png" width="68" height="68"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://Pages/nattaro-sv-bedbug-facts.html#Fakta%208__fact8"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$_Item:Hur de hittar oss;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://Images/T/APP020T_72.png" width="68" height="68"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://Pages/nattaro-sv-bedbug-facts.html#Fakta%209__fact9"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$_Item:Varför de är tillbaka;&lt;/p&gt;
+&lt;p&gt;$_Thumbnail:&lt;img src="res://Images/T/APP022T_72.png" width="68" height="68"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;$_Link:&lt;a title="Item1" href="res://Pages/nattaro-sv-bedbug-facts.html#Fakta%2010__fact10"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
+  <data name="StartPageTitle" xml:space="preserve">
+    <value>RestAssure</value>
+  </data>
+</root>
